@@ -1,2 +1,1 @@
-SMSAPI-PHP
-==========
+# Globe SMS API for PHP

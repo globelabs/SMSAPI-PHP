@@ -1,0 +1,22 @@
+{
+    "name": "globelabs/smsapi",
+    "description": "Globe SMS API for PHP",
+
+    "authors": [
+        {
+            "name": "rupaheizu",
+            "email": "rupaheizu@hakz.co"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.4.0",
+        "guzzle/guzzle": "3.9.*@dev"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "GlobeLabs\\SmsApi": "src"
+        }
+    }
+}
